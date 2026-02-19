@@ -60,6 +60,13 @@ src/common/Extensions/PasswordGenerator @MarcoSennHaag
 src/main/Extensions/PasswordGenerator @MarcoSennHaag
 src/renderer/Extensions/PasswordGenerator @MarcoSennHaag
 
+# RowlandTextEditor
+assets/Extensions/RowlandTextEditor @ChristopherSteiner
+docs/Extensions/RowlandTextEditor @ChristopherSteiner
+src/common/Extensions/RowlandTextEditor @ChristopherSteiner
+src/main/Extensions/RowlandTextEditor @ChristopherSteiner
+src/renderer/Extensions/RowlandTextEditor @ChristopherSteiner
+
 # UuidGenerator
 assets/Extensions/UuidGenerator @ChristopherSteiner
 docs/Extensions/UuidGenerator @ChristopherSteiner
